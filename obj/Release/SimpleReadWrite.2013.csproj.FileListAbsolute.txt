@@ -1,0 +1,5 @@
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Release\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Release\NationalInstruments.Examples.SimpleReadWrite.Properties.Resources.resources
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Release\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Release\SimpleReadWrite.2013.csproj.GenerateResource.Cache
+C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Release\SimpleReadWrite.exe.config

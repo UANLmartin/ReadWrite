@@ -12,19 +12,22 @@ C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.5.1\Simp
 C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.5.1\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.2013.csproj.GenerateResource.Cache
 C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.5.1\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.exe
 C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.5.1\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.pdb
-C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\SimpleReadWrite.exe
-C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\SimpleReadWrite.exe.config
+C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\SimpleReadWrite.exe.manifest
+C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\SimpleReadWrite.application
+C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\SimpleReadWrite.exe
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\SimpleReadWrite.pdb
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\NationalInstruments.Common.dll
+C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\NationalInstruments.NiLmClientDLL.dll
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\NationalInstruments.MStudioCLM.dll
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\NationalInstruments.Common.xml
 C:\Users\lab6\Documents\GitHub\ReadWrite\bin\Debug\Newtonsoft.Json.xml
 C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.Properties.Resources.resources
 C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
 C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\SimpleReadWrite.2013.csproj.GenerateResource.Cache
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\SimpleReadWrite.exe.manifest
+C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\SimpleReadWrite.application
 C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\SimpleReadWrite.exe
 C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\SimpleReadWrite.pdb
-C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\SimpleReadWrite.2013.csprojResolveAssemblyReference.cache
-C:\Users\lab6\Documents\GitHub\ReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.Properties.Resources.resources

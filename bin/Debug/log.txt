@@ -3710,3 +3710,15 @@ Entrada de Log : 06:34:49 miércoles, 29 de noviembre de 2017
   :ANRITSU,MS9710B,0,V3.13&V3.11
 
 -------------------------------
+
+Entrada de Log : 11:52:07 miércoles, 29 de noviembre de 2017
+  :
+  :Commando ejecutado -> Write - STOP
+  :
+-------------------------------
+
+Entrada de Log : 11:52:17 miércoles, 29 de noviembre de 2017
+  :
+  :Commando ejecutado -> Write - DMA?
+  :
+-------------------------------
